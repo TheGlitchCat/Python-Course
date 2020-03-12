@@ -1,0 +1,33 @@
+taller:
+Crear un juego de rol con las siguientes caracteristicas
+- Debe tener un main.py
+- Debe ser modular
+- los ataques entre personajes deben ser con generadores o iteradores (next())
+- El usuario podra escoger que clase ser (try except) (1 clase o 2)
+- Se le debe mostrar al usuario sus opciones(Ataques) (minimo 2 ataques diferentes)
+- Los personajes deben tener una probabilidad de exito o fallo al atacar
+- los personajes deben tener nombre, hp(health points), atk(ataque), def(defensa), mana
+	- El mana es lo que cuesta en usar cada ataque
+	- si el personaje se queda sin mana automaticamente pierde un turno para reestablecer el mana por completo
+- Debe imprimir la batalla 
+- Debe guardarme los resultados/historial en un JSON
+
+Estructura:
+
+Soul(object)
+
+Human(Soul)
+	Warrior(Human)
+	Mage(Human)
+	Elf(Human, Monster)
+
+
+Monster(Soul)
+	Centaur(Human, Monster)
+	Skeleton(Monster)
+	Slime(Monster)
+
+
+
+Player(Human or Mage or Elf) # puede ser de un tipo o dos tipos
+
