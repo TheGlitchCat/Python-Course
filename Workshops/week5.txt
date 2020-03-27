@@ -7,8 +7,7 @@ Must have:
 - top 10 items sold
 - best sales of each month 
 - top 10 cheap items 
-- top 10 expensive items 
- 
+- top 10 expensive items  
 
 Option 2:
 Make a report of the best pokemons
@@ -17,5 +16,4 @@ Must have:
 - information
 - short description
 - top 10 PKMN of each type
-- PKMN with the best stats
-- 
+- PKMN with the best stats 
