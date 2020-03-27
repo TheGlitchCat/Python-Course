@@ -1,0 +1,6 @@
+Battleship Game
+- Matrix 7x7
+- 1 boat (4 pos)
+- 2 boat (3 pos)
+- 3 boat (2 pos)
+- 2 boards each player ( 1 to show and other to to attack)
