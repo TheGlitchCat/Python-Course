@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 __pycache__
 *.pptx
-Datasets\Week9\moviedataset\*
+./Datasets/Week9/moviedataset/ratings.csv
