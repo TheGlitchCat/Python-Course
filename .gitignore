@@ -2,3 +2,4 @@
 __pycache__
 *.pptx
 ./Datasets/Week9/moviedataset/ratings.csv
+*.zip
