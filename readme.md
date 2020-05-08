@@ -1,6 +1,6 @@
 # Python Course
 
-This is a personal repository to teach Python, Machine Learning and Deep Learning
+This is a personal repository to teach Python, Machine Learning and Deep Learning(Basics)
 
 <img width=500 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 
