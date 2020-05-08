@@ -11,10 +11,13 @@ __*Clarification: the content of this repository is not entirely created by me, 
 ## Content:
 - Datasets
   - Directory of multiple collected Datasets
+  - [Appen](https://appen.com/resources/datasets/)
+  - [ics](https://archive.ics.uci.edu/ml/datasets.php)
 - Week 1 - Python Basics
   - Variables types
   - Operators
   - Conditionals
+  - Cycles
 - Week 2 - Python Basics 2
   - Functions
   - Dictionaries
