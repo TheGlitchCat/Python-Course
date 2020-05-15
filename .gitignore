@@ -4,3 +4,4 @@ __pycache__
 ./Datasets/Week9/moviedataset/ratings.csv
 *.zip
 *.tar.gz
+./catvsdog
