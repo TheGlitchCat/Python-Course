@@ -65,9 +65,11 @@ __*Clarification: the content of this repository is not entirely created by me, 
   - Intro Deep Learning Part 2
   - Deep Learning (Basic Theory)
   - Pytorch
+  - Convolutional Neural Network
 - Week 12 - NLP
   - Natural Language Process
   - NLTK
+  - Recurrent Neural Network
 - Bonus
   - Chatbot
-  - Sentiment Analysis
+  - Dog or Muffin

@@ -5,3 +5,5 @@ __pycache__
 *.zip
 *.tar.gz
 ./catvsdog
+./data/(datasets)/*
+./cifar-10-batches-py
