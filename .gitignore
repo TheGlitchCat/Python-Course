@@ -5,5 +5,7 @@ __pycache__
 *.zip
 *.tar.gz
 ./catvsdog
-.Week 11/data/(datasets)/*
-.Week 11/cifar-10-batches-py
+./summer2winter_yosemite
+./Week 11/data/(datasets)/
+./Week 11/cifar-10-batches-py/
+
