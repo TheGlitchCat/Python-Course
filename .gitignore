@@ -4,8 +4,4 @@ __pycache__
 ./Datasets/Week9/moviedataset/ratings.csv
 *.zip
 *.tar.gz
-./catvsdog
-./summer2winter_yosemite
-./Week 11/data/(datasets)/
-./Week 11/cifar-10-batches-py/
 
